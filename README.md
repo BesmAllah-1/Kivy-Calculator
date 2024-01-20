@@ -19,3 +19,9 @@ https://github.com/Gehad-AboElmagd/Kivy-Calculator/assets/128185404/d6352686-581
 - divison by zero
 - operation on a single dot
 - operation precedence
+
+## Converting the .py file into .apk file🔨🔨📄
+- To use Github Actions, please make sure: 
+ >1) you have created a spec file which you can get by downloading the above [buildozer.spec](https://github.com/Gehad-AboElmagd/Kivy-Calculator/blob/main/buildozer.spec) file 👆🏻
+ >2) your .py file is named main.py not something else.
+ >3) to follow [this tutorial](https://www.youtube.com/watch?v=Saa35hSATNo) on how to use Github Actions to convert your .py file into .apk file:
