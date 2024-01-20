@@ -4,7 +4,7 @@
 
 ## App Description 🧾📌📌
 - Simple Calculator App which supports basic mathematical operations with operations precedence taken into account.
-- Parsing the user-entered expression ,or in other words, evaluating it is hard-coded rather than using the python builtin eval() function
+- Parsing the user-entered expression ,or in other words, evaluating it is hard-coded rather than using python built-in eval() function
 
 https://github.com/Gehad-AboElmagd/Kivy-Calculator/assets/128185404/d6352686-581e-4c9f-8127-6b68a2821ba9
 
