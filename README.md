@@ -13,6 +13,7 @@ https://github.com/Gehad-AboElmagd/Kivy-Calculator/assets/128185404/d6352686-581
 - ➖
 - ✖ 
 - ➗
+- clear ✏🗳🗳🧹🧹
 
 ## Handled Issues ⚠❗❕
 - divison by zero
